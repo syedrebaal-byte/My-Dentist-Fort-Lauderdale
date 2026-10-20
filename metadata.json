@@ -1,0 +1,7 @@
+{
+  "name": "My Dentist Fort Lauderdale",
+  "description": "Premier cosmetic, implant, and family dentistry in Fort Lauderdale led by Dr. Zelka Licina, DDS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
